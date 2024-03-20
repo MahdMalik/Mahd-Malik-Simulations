@@ -1,7 +1,7 @@
 WHERE TO PLACE EACH FILE:
 - ETR-Updated Parachutes: Wherever you need to, this is the OpenRocket File for the L2 Rocket
 
-- H97Jthrustcurve.eng: place this wherever you want as long as you change the pathfile inside the Jupyter notebook to match the pathway for this thrust curve. I recommend putting it inside the folder that contains all your RocketPy Classes And Data
+- H97Jthrustcurve.eng: place this wherever you want as long as you change the pathfile inside the Jupyter notebook to match the pathway for this thrust curve. I recommend putting it inside the Rocketpy folder
 
 - K570-17A.eng: same as above
 
@@ -26,3 +26,7 @@ WHERE TO PLACE EACH FILE:
 - WeathData.xlsx: whereever you want to again as long as you change the pathfile name in the notebook file, I'd also recommend to place this in the same RocketPy folder
 
 - flight_plots.py: for this one, you should find the same "flight_plots.py" file INSIDE the RocketPy folder, and REPLACE THAT FILE with this one.
+
+- Environment.py: same as above, replace the original Environment.py folder with this one as well
+
+- flight.py: same as above too

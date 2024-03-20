@@ -23,6 +23,8 @@ WHERE TO PLACE EACH FILE:
 
 - L2RocketSim.ipynb: same as above
 
+- WeatherData.xlsx: same as above
+
 - WeathData.xlsx: whereever you want to again as long as you change the pathfile name in the notebook file, I'd also recommend to place this in the same RocketPy folder
 
 - flight_plots.py: for this one, you should find the same "flight_plots.py" file INSIDE the RocketPy folder, and REPLACE THAT FILE with this one.

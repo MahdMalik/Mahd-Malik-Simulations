@@ -1,0 +1,182 @@
+<RASAeroDocument>
+  <FileVersion>2</FileVersion>
+  <RocketDesign>
+    <NoseCone>
+      <PartType>NoseCone</PartType>
+      <Length>24</Length>
+      <Diameter>6.1</Diameter>
+      <Shape>LV-Haack</Shape>
+      <BluntRadius>0</BluntRadius>
+      <Location>0</Location>
+      <Color>Black</Color>
+    </NoseCone>
+    <BodyTube>
+      <PartType>BodyTube</PartType>
+      <Length>40</Length>
+      <Diameter>6.1</Diameter>
+      <LaunchLugDiameter>0</LaunchLugDiameter>
+      <LaunchLugLength>0</LaunchLugLength>
+      <RailGuideDiameter>0</RailGuideDiameter>
+      <RailGuideHeight>0</RailGuideHeight>
+      <LaunchShoeArea>0</LaunchShoeArea>
+      <Location>24</Location>
+      <Color>Black</Color>
+      <BoattailLength>0</BoattailLength>
+      <BoattailRearDiameter>0</BoattailRearDiameter>
+      <BoattailOffset>0</BoattailOffset>
+      <Overhang>0</Overhang>
+    </BodyTube>
+    <BodyTube>
+      <PartType>BodyTube</PartType>
+      <Length>40</Length>
+      <Diameter>6.1</Diameter>
+      <LaunchLugDiameter>0</LaunchLugDiameter>
+      <LaunchLugLength>0</LaunchLugLength>
+      <RailGuideDiameter>0.372</RailGuideDiameter>
+      <RailGuideHeight>0.078</RailGuideHeight>
+      <LaunchShoeArea>0</LaunchShoeArea>
+      <Location>64</Location>
+      <Color>Black</Color>
+      <BoattailLength>6</BoattailLength>
+      <BoattailRearDiameter>3.937</BoattailRearDiameter>
+      <BoattailOffset>0</BoattailOffset>
+      <Overhang>0</Overhang>
+      <Fin>
+        <Count>4</Count>
+        <Chord>12.0078</Chord>
+        <Span>6.3779</Span>
+        <SweepDistance>7.0866</SweepDistance>
+        <TipChord>5</TipChord>
+        <Thickness>0.25</Thickness>
+        <LERadius>0</LERadius>
+        <Location>12.0078</Location>
+        <AirfoilSection>Single Wedge</AirfoilSection>
+        <FX1>0</FX1>
+        <FX3>0</FX3>
+      </Fin>
+    </BodyTube>
+    <BoatTail>
+      <PartType>BoatTail</PartType>
+      <Length>6</Length>
+      <Diameter>6.1</Diameter>
+      <RearDiameter>3.937</RearDiameter>
+      <Location>104</Location>
+      <Color>Black</Color>
+    </BoatTail>
+    <Surface>Smooth (Zero Roughness)</Surface>
+    <CP>0</CP>
+    <ModifiedBarrowman>False</ModifiedBarrowman>
+    <Turbulence>False</Turbulence>
+    <SustainerNozzle>0</SustainerNozzle>
+    <Booster1Nozzle>0</Booster1Nozzle>
+    <Booster2Nozzle>0</Booster2Nozzle>
+    <UseBooster1>False</UseBooster1>
+    <UseBooster2>False</UseBooster2>
+    <Comments />
+  </RocketDesign>
+  <LaunchSite>
+    <Altitude>4595</Altitude>
+    <Pressure>24.76</Pressure>
+    <RodAngle>6</RodAngle>
+    <RodLength>2.2</RodLength>
+    <Temperature>56.84</Temperature>
+    <WindSpeed>2.33</WindSpeed>
+  </LaunchSite>
+  <Recovery>
+    <Altitude1>1000</Altitude1>
+    <Altitude2>0</Altitude2>
+    <DeviceType1>Parachute</DeviceType1>
+    <DeviceType2>Parachute</DeviceType2>
+    <Event1>True</Event1>
+    <Event2>True</Event2>
+    <Size1>24</Size1>
+    <Size2>120</Size2>
+    <EventType1>Apogee</EventType1>
+    <EventType2>Apogee</EventType2>
+    <CD1>0.97</CD1>
+    <CD2>2.2</CD2>
+  </Recovery>
+  <MachAlt>
+    <Item>0.02, 1980</Item>
+    <Item>0.03, 1977</Item>
+    <Item>0.04, 1</Item>
+    <Item>0.04, 1973</Item>
+    <Item>0.05, 1968</Item>
+    <Item>0.06, 2</Item>
+    <Item>0.06, 1963</Item>
+    <Item>0.07, 3</Item>
+    <Item>0.07, 1956</Item>
+    <Item>0.08, 4</Item>
+    <Item>0.08, 1947</Item>
+    <Item>0.09, 1937</Item>
+    <Item>0.1, 5</Item>
+    <Item>0.1, 1928</Item>
+    <Item>0.11, 1916</Item>
+    <Item>0.12, 8</Item>
+    <Item>0.12, 1903</Item>
+    <Item>0.13, 1890</Item>
+    <Item>0.14, 1877</Item>
+    <Item>0.15, 1855</Item>
+    <Item>0.17, 1828</Item>
+    <Item>0.19, 1792</Item>
+    <Item>0.2, 1769</Item>
+    <Item>0.22, 1748</Item>
+    <Item>0.23, 29</Item>
+    <Item>0.23, 1726</Item>
+    <Item>0.24, 1691</Item>
+    <Item>0.25, 33</Item>
+    <Item>0.27, 42</Item>
+    <Item>0.28, 1622</Item>
+    <Item>0.29, 1589</Item>
+    <Item>0.32, 57</Item>
+    <Item>0.33, 1507</Item>
+    <Item>0.34, 1468</Item>
+    <Item>0.35, 74</Item>
+    <Item>0.36, 1415</Item>
+    <Item>0.38, 1384</Item>
+    <Item>0.39, 93</Item>
+    <Item>0.4, 1332</Item>
+    <Item>0.43, 114</Item>
+    <Item>0.43, 1270</Item>
+    <Item>0.49, 1125</Item>
+    <Item>0.52, 1049</Item>
+    <Item>0.55, 977</Item>
+    <Item>0.56, 215</Item>
+    <Item>0.58, 910</Item>
+    <Item>0.61, 860</Item>
+    <Item>0.63, 296</Item>
+    <Item>0.63, 821</Item>
+    <Item>0.66, 756</Item>
+    <Item>0.69, 688</Item>
+    <Item>0.71, 409</Item>
+    <Item>0.72, 605</Item>
+    <Item>0.73, 470</Item>
+    <Item>0.73, 532</Item>
+  </MachAlt>
+  <SimulationList>
+    <Simulation>
+      <SustainerEngine>M1850W  (Aerotech)</SustainerEngine>
+      <SustainerLaunchWt>47.52</SustainerLaunchWt>
+      <SustainerNozzleDiameter>2.992</SustainerNozzleDiameter>
+      <SustainerCG>64.56</SustainerCG>
+      <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
+      <Booster1LaunchWt>0</Booster1LaunchWt>
+      <Booster1SeparationDelay>0</Booster1SeparationDelay>
+      <Booster1IgnitionDelay>0</Booster1IgnitionDelay>
+      <Booster1CG>0</Booster1CG>
+      <Booster1NozzleDiameter>0</Booster1NozzleDiameter>
+      <IncludeBooster1>False</IncludeBooster1>
+      <Booster2LaunchWt>0</Booster2LaunchWt>
+      <Booster2Delay>0</Booster2Delay>
+      <Booster2CG>0</Booster2CG>
+      <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
+      <IncludeBooster2>False</IncludeBooster2>
+      <FlightTime>0</FlightTime>
+      <TimetoApogee>29.55058</TimetoApogee>
+      <MaxAltitude>14997.7</MaxAltitude>
+      <MaxVelocity>1145.965</MaxVelocity>
+      <OptimumWt>22.57201</OptimumWt>
+      <OptimumMaxAlt>22.57201</OptimumMaxAlt>
+    </Simulation>
+  </SimulationList>
+</RASAeroDocument>

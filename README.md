@@ -7,6 +7,10 @@ WHERE TO PLACE EACH FILE:
 
 - WeatherData.xlsx: same as above
 
+- SeymourLaunchSite: same as above
+
+- SpaceportLaunchSite: same as above
+
 - L1Rocket.CDX1: anywhere you need to, this is the file for RasAero and the one for the L1 Rocket
 
 - L1Rocket.ork: same as above, but this is the OpenRocket File for my L1 Rocket
